@@ -75,23 +75,7 @@ The app must have the following functionalities
 </div>
 <br/>
 
-</details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/EmojiGame/index.js`
-- `src/components/EmojiGame/index.css`
-- `src/components/NavBar/index.js`
-- `src/components/NavBar/index.css`
-- `src/components/EmojiCard/index.js`
-- `src/components/EmojiCard/index.css`
-- `src/components/WinOrLoseCard/index.js`
-- `src/components/WinOrLoseCard/index.css`
-</details>
 
 ### Quick Tips
 
